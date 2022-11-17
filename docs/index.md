@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+# Piazza Panic - Group 2
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This website contains all the infomation related to group 2's implementation
+of Piazza Panic for our Software Engineering Project.
 
-## Commands
+## Repository
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+[Github Website Repo](https://github.com/ENG1-Group-2/ENG1-Group-2.github.io/tree/gh-pages)
+[Main Website Repo](https://github.com/ENG1-Group-2/ENG1-Assessment-One)
 
-## Project layout
+## Product Brief
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[Piazza Panic Given Requirements](https://drive.google.com/file/d/1kiN6UghTRHudFDQxvVlS1LPYP5eLKjQc/view?usp=sharing)
+
+* Frequent updates of our progress will be provided and can be viewed under the tab for each assessment.
+* All our source code is hosted on Github which can be seen above.
+* Click on the downloadables tab to get our deliverablies.
