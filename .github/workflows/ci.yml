@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - initial_planning
+      - master
+      - main
 jobs:
   deploy:
     runs-on: ubuntu-latest
