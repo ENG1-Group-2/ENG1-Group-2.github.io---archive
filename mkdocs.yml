@@ -8,9 +8,9 @@ site_name:
 nav:
   - Home: "index.md"
   - Downloads: "downloads.md"
-  - Assessment One:
+  - "Assessment One":
       - Planning: "one/initial_planning.md"
-      - Weekly Updates: "one/weekly_updates.md"
-  - Assessment Two:
+      - "Weekly Updates": "one/weekly_updates.md"
+  - "Assessment Two":
       - Planning: "two/initial_planning.md"
-      - Weekly Updates: "two/weekly_updates.md"
+      - "Weekly Updates": "two/weekly_updates.md"
