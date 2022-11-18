@@ -6,11 +6,11 @@ site_name:
   ENG1 2022/23 Group 2
 
 nav:
-  - index.md
-  - downloads.md
-  - one/assessment_one.md
-      - one/initial_planning.md
-      - one/weekly_updates.md
-  - two/assessment_two.md
-      - two/initial_planning.md
-      - two/weekly_updates.md
+  - Home: "index.md"
+  - Downloads: "downloads.md"
+  - Assessment One:
+      - Planning: "one/initial_planning.md"
+      - Weekly Updates: "one/weekly_updates.md"
+  - Assessment Two:
+      - Planning: "two/initial_planning.md"
+      - Weekly Updates: "two/weekly_updates.md"
