@@ -1,4 +1,6 @@
-# Piazza Panic - Group 2
+# Home
+
+## Piazza Panic - Group 2
 
 This website contains all the infomation related to group 2's implementation
 of Piazza Panic for our Software Engineering Project.
