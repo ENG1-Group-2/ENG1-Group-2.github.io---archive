@@ -6,7 +6,7 @@ as we thought. However, after coming to the conclusion, that different
 deliverables can be worked on by different people simultaneously, we were able 
 to create the following gantt chart:
 
-[Picture of the initial gantt chart](initial_gantt.png)
+![Picture of the initial gantt chart](initial_gantt.png)
 
 # Why have we done it like this?
 
@@ -35,29 +35,28 @@ stage of teamwork.
 * However, each tasks on the gantt chart has been assigned to one or more
 of the team:
 
-| Component/ Part                    | Task                                                                                      | Main Assignee(s)      | Backup Assignee(s)   | Priority |
-| ---------------------------------- | ----------------------------------------------------------------------------------------- | --------------------- | -------------------- | -------- |
-| Website 1a/c/d                     | Initial Website Setup                                                                     | Vivek                 | Lachlan              | 3        |
-| Website 1b/4c                      | Ensure all autumn term progress has been recorded                                         | Vivek                 | Lachlan              | 5        |
-| Website 1b/4c                      | Ensure all christmas break progress has been recorded                                     | Vivek                 | Lachlan              | 5        |
-| Website 1b/4c                      | Ensure all spring term progress has been recorded                                         | Vivek                 | Lachlan              | 5        |
-| Risk Assessment 5                  | Complete Risk Assessment Deliverable                                                      | Sam/ Milo             | Dengy                | 5        |
-| Requirements 2a                    | Generate Questions for First Customer Meeting                                             | Lachlan/ Fawaaz       | Dengy                | 4        |
-| Requirements 2b                    | Complete Requirements Deliverable                                                         | Denjy/ Sam            | Milo                 | 5        |
-| Artitecture 3a                     | Create diagrammatic representations (structural and behavioural diagrams) of the          | Lachlan/ Vivek        | Denjy/ Sam           | 4        |
-| architecture of the team’s product |
-| Artitecture 3b                     | Evaluation for Prototype One                                                              | Denjy/Sam/ Milo       | Lachlan/Vivek/Fawwaz | 4        |
-| Artitecture 3b                     | Evaluation for Prototype Two                                                              | Denjy/Sam/ Milo       | Lachlan/Vivek/Fawwaz | 3        |
-| Artitecture 3b                     | Evaluation for Prototype Three                                                            | Denjy/Sam/ Milo       | Lachlan/Vivek/Fawwaz | 4        |
-| Artitecture 3b                     | Evaluation for Prototype One                                                              | Denjy/Sam/ Milo       | Lachlan/Vivek/Fawwaz | 4        |
-| Planning 4a                        | Evaluate tools used                                                                       | Fawwaz                | Lachlan              | 5        |
-| Planning 4a                        | Research and Collect Resources                                                            | Dengy/ Fawwaz         | Sam/Milo             | 5        |
-| Planning 4b/c                      | Write up deliverable about organisation and the plan                                      | Sam/Milo/Dengy        | Fawaaz               | 5        |
-| Implementation 6                   | Prototype One: Minimum Requirement - Main Menu                                            | Fawaaz/ Lachlan/Vivek | Sam/Milo/Dengy       | 5        |
-| Implementation 6                   | Prototype Two: Minimum Requirement - One working character                                | Fawaaz/ Lachlan/Vivek | Sam/Milo/Dengy       | 4        |
-| Implementation 6                   | Prototype Three: Minimum Requirement - All graphics working even if they are low quality. | Fawaaz/ Lachlan/Vivek | Sam/Milo/Dengy       | 4        |
-| Implementation6                    | Final prototype: based upon user feedback                                                 | Fawaaz/ Lachlan/Vivek | Sam/Milo/Dengy       | 5        |
-| Implementation 6                   | Compile code into jar file.                                                               | Vivek                 | Lachlan              | 5        |
+| Component/ Part                    | Task                                                                                                               | Main Assignee(s)      | Backup Assignee(s)   | Priority |
+| ---------------------------------- |--------------------------------------------------------------------------------------------------------------------| --------------------- | -------------------- | -------- |
+| Website 1a/c/d                     | Initial Website Setup                                                                                              | Vivek                 | Lachlan              | 3        |
+| Website 1b/4c                      | Ensure all autumn term progress has been recorded                                                                  | Vivek                 | Lachlan              | 5        |
+| Website 1b/4c                      | Ensure all christmas break progress has been recorded                                                              | Vivek                 | Lachlan              | 5        |
+| Website 1b/4c                      | Ensure all spring term progress has been recorded                                                                  | Vivek                 | Lachlan              | 5        |
+| Risk Assessment 5                  | Complete Risk Assessment Deliverable                                                                               | Sam/ Milo             | Dengy                | 5        |
+| Requirements 2a                    | Generate Questions for First Customer Meeting                                                                      | Lachlan/ Fawaaz       | Dengy                | 4        |
+| Requirements 2b                    | Complete Requirements Deliverable                                                                                  | Denjy/ Sam            | Milo                 | 5        |
+| Artitecture 3a                     | Create diagrammatic representations (structural and behavioural diagrams) of the architecture of the teams project | Lachlan/ Vivek        | Denjy/ Sam           | 4        |
+| Artitecture 3b                     | Evaluation for Prototype One                                                                                       | Denjy/Sam/ Milo       | Lachlan/Vivek/Fawwaz | 4        |
+| Artitecture 3b                     | Evaluation for Prototype Two                                                                                       | Denjy/Sam/ Milo       | Lachlan/Vivek/Fawwaz | 3        |
+| Artitecture 3b                     | Evaluation for Prototype Three                                                                                     | Denjy/Sam/ Milo       | Lachlan/Vivek/Fawwaz | 4        |
+| Artitecture 3b                     | Evaluation for Prototype One                                                                                       | Denjy/Sam/ Milo       | Lachlan/Vivek/Fawwaz | 4        |
+| Planning 4a                        | Evaluate tools used                                                                                                | Fawwaz                | Lachlan              | 5        |
+| Planning 4a                        | Research and Collect Resources                                                                                     | Dengy/ Fawwaz         | Sam/Milo             | 5        |
+| Planning 4b/c                      | Write up deliverable about organisation and the plan                                                               | Sam/Milo/Dengy        | Fawaaz               | 5        |
+| Implementation 6                   | Prototype One: Minimum Requirement - Main Menu                                                                     | Fawaaz/ Lachlan/Vivek | Sam/Milo/Dengy       | 5        |
+| Implementation 6                   | Prototype Two: Minimum Requirement - One working character                                                         | Fawaaz/ Lachlan/Vivek | Sam/Milo/Dengy       | 4        |
+| Implementation 6                   | Prototype Three: Minimum Requirement - All graphics working even if they are low quality.                          | Fawaaz/ Lachlan/Vivek | Sam/Milo/Dengy       | 4        |
+| Implementation6                    | Final prototype: based upon user feedback                                                                          | Fawaaz/ Lachlan/Vivek | Sam/Milo/Dengy       | 5        |
+| Implementation 6                   | Compile code into jar file.                                                                                        | Vivek                 | Lachlan              | 5        |
 
 * The main idea was to have components with a low mark with one
 mark.

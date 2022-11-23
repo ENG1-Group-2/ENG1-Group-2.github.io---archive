@@ -8,14 +8,17 @@ practical to setup Git and Github collectively and setup over repos
 under an organisation.
 
 Main goals achieved includes:
+
+
 * Understanding requirements collectively.
+* Group forming exercises.
 
 # Aut/8 - Start planning!
 
 This week was about thinking how to go forward as a team. 
 When we arrived at our ENG practical, we brainstormed a gantt chart
 on paper and decided what tasks we could all be interested in
-doing. The main things that we decided we could be working on include:
+doing. The main thing that we decided we could be working on include:
 
 * Risk Management
 * Requirements
@@ -30,3 +33,25 @@ customer.
 * Dengy - Explore Graphics libraries and collect Graphics pack.
 * Sam and Milo - Work on the risk management deliverable via
 reading, google and lectures.
+
+![Picture of the initial gantt chart](initial_gantt.png)
+
+# Aut/9 - Requirements complete
+
+Continued with last week's work. The main things we learnt was
+that the more project specific risks, would be more useful to
+do a later date (after we have a better idea of the architecture
+and more research done).
+This main thing that we have been working on are:
+
+* Requirements - The document is now finished!
+* Starting to complete a libGDX tutorial to get familiar
+with the language.
+
+Tasks set for this week include:
+
+* Trying to get more familiar with libGDX.
+
+![Picture of the aut/9 gantt chart](aut9.png)
+
+
