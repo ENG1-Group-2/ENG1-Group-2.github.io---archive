@@ -42,6 +42,7 @@ Continued with last week's work. The main things we learnt was
 that the more project specific risks, would be more useful to
 do a later date (after we have a better idea of the architecture
 and more research done).
+
 This main thing that we have been working on are:
 
 * Requirements - The document is now finished!
@@ -54,4 +55,26 @@ Tasks set for this week include:
 
 ![Picture of the aut/9 gantt chart](aut9.png)
 
+# Aut/10 - Responsibility Driven Design
 
+The team spent the last week learning about OpenGDX. Today, we have 
+been following responsibility driven design, in order to brainstorm 
+ideas for our architecture. We have brained stormed ideas
+using the methods described on the lecture.
+
+We realised that our current prototyping method for implementation does
+not make sense. Hence, after research, we have changed the stages in 
+our prototyping method.
+
+The main things we have been working on are:
+
+* Behavioural Diagrams
+* Structural Diagrams
+* Cards
+
+Test set for this week include:
+
+* Start development by developing map using Tiled.
+* Finish architecture document.
+
+![Picture of the aut/10 gantt chart](aut10.png)
