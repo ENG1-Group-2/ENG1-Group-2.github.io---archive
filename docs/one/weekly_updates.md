@@ -9,7 +9,6 @@ under an organisation.
 
 Main goals achieved includes:
 
-
 * Understanding requirements collectively.
 * Group forming exercises.
 
