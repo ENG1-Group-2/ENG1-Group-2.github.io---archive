@@ -1,1 +1,1 @@
-![Cards](RDD Cards.pdf)
+[Cards](RDD Cards.pdf)
