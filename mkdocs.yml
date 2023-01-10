@@ -12,6 +12,7 @@ nav:
       - Planning: "one/initial_planning.md"
       - "Weekly Updates": "one/weekly_updates.md"
       - Architecture: "one/architecture.md"
+      - "First Customer Meeting" : "one/questions_initial_meeting.md"
   - "Assessment Two":
       - Planning: "two/initial_planning.md"
       - "Weekly Updates": "two/weekly_updates.md"
