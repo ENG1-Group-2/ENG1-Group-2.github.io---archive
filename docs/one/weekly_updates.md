@@ -77,3 +77,11 @@ Test set for this week include:
 * Finish architecture document.
 
 ![Picture of the aut/10 gantt chart](aut10.png)
+
+# Break/WK1 - Starting to Code
+
+# Break/WK2 - Character Movement
+
+# Break/WK3 - Merry Christmas!
+
+# Break/WK4 - Limited Work due to Exam Revision
