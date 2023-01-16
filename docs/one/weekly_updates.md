@@ -3,7 +3,7 @@
 # Aut/7 - The first week
 
 This week was all about team building as it was the first time, 
-we had been together as a group. We met up outside of the designated 
+we had been together as a group. We met up outside the designated 
 practical to setup Git and Github collectively and setup over repos 
 under an organisation.
 
@@ -80,8 +80,45 @@ Test set for this week include:
 
 # Break/WK1 - Starting to Code
 
+* Dengy started on the group organisation document.
+* Vivek started coding with the plan to hand the code over 
+to Sam the following week.
+* Used tiled and started collect the assets to build it.
+* Added links to a markdown file within the assets folder to
+keep track of what is being used.
+
+* Still waiting on architecture diagrams - we already had
+it written up but it needed to be implemented using UML
+diagrams.
+
 # Break/WK2 - Character Movement
+
+* Sam implement character movement based upon the tutorial
+some of us completed.
+* Vivek spoke about his code over a Discord call.
+* Start to learn about how to use tiled Object Layers 
+within LibGDX.
+* Automatic customer movement where they randomly 
+choose a recipe and this is printed to the terminal.
+
+* Still waiting on architecture diagrams - we already had
+it written up, but it needed to be implemented using UML
+diagrams.
 
 # Break/WK3 - Merry Christmas!
 
+* No work done but this was factored in during planning.
+* No Gantt Chart update for this week.
+
 # Break/WK4 - Limited Work due to Exam Revision
+
+* Ingredient Station screen implemented.
+* Using screen manager for multiple screens/
+* Help screen to display what ingredients user
+has as well as the recipes.
+* Recipes now saved within an array list.
+
+* Lack of communication/ progress over Christmas
+has significantly affect the workflow.
+
+# Spr/WK1 - Exam Week
