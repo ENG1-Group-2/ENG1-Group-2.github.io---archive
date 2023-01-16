@@ -87,9 +87,18 @@ to Sam the following week.
 * Added links to a markdown file within the assets folder to
 keep track of what is being used.
 
+* Architecture deliverable plans based upon final meeting of term.
 * Still waiting on architecture diagrams - we already had
-it written up but it needed to be implemented using UML
+it written up, but it needed to be implemented using UML
 diagrams.
+
+Ongoing Tasks:
+
+* Character Movement 
+* Architecture diagrams in RDD.
+* Team Organisation Deliverable (PART A)
+
+![Picture of the break/1 gantt chart](break1.png)
 
 # Break/WK2 - Character Movement
 
@@ -101,9 +110,16 @@ within LibGDX.
 * Automatic customer movement where they randomly 
 choose a recipe and this is printed to the terminal.
 
+* Lack of progress means work on the website has been 
+halted to enable focus on implemented.
+* Shifted this to first week back as there has 
+been fewer updates than during term time.
+
 * Still waiting on architecture diagrams - we already had
 it written up, but it needed to be implemented using UML
-diagrams.
+diagrams. - Extend time on the gantt chart.
+
+![Picture of the break/2 gantt chart](break2.png)
 
 # Break/WK3 - Merry Christmas!
 
@@ -119,6 +135,15 @@ has as well as the recipes.
 * Recipes now saved within an array list.
 
 * Lack of communication/ progress over Christmas
-has significantly affect the workflow.
+has significantly affected the workflow.
+* Solo work from Vivek to catch up includes working the 
+initial architecture diagram in between and 
+starting evaluating tools because it is fresh in my 
+mind.
+
+* Tasks have not been set on a weekly basis due to
+availability and lack of communication.
+
+![Picture of the break/4 gantt chart](break4.png)
 
 # Spr/WK1 - Exam Week
