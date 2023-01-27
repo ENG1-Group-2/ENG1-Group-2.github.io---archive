@@ -137,13 +137,57 @@ has as well as the recipes.
 * Lack of communication/ progress over Christmas
 has significantly affected the workflow.
 * Solo work from Vivek to catch up includes working the 
-initial architecture diagram in between and 
-starting evaluating tools because it is fresh in my 
-mind.
+initial architecture diagram in between.
 
-* Tasks have not been set on a weekly basis due to
+* Weekly tasks have not been set on a weekly basis due to
 availability and lack of communication.
 
 ![Picture of the break/4 gantt chart](break4.png)
 
 # Spr/WK1 - Exam Week
+
+* Planned break due to exams which has been countered in for.
+* No gantt chart update for this week.
+
+# Spr/WK2 - Final Stages of implementation
+
+* We had to re-plan based upon the priority of tasks.
+* Milo and Vivek started doing pair programming to get 
+a good foundation of the code which can be worked on 
+separately.
+* Due to the lack of time left and resources, we are
+no longer conducting the meetings we planned - 
+however, we have been communicating with our customer 
+during our practicals.
+
+Tasks set this week:
+
+* Collision Detection for Sam
+* Architecture Diagram changes since development for Lachlan
+* Improving the help screen visually for Dengy
+* Fixing the hitboxs and adding docstrings for Milo
+* Add audio and some bug fixes for Vivek
+
+![Picture of the sprwk2 gantt chart](spr2.png)
+
+# Spr/WK3 - Wrapping everything up
+
+* Core functionality is now fully implemented.
+* Decided on what needs to be done for the rest of the week.
+* Collision Detection seems quite problematic so we moved the ownership of the task to someone else.
+* Architecture diagrams weren't done so ownership of the task got transferred.
+
+* Less focus on using Gantt Charts as we are at the stage where it is more about refining details.
+
+Tasks set this week:
+
+* Architecture - Create up-to-date diagrams, say why its changed
+and link it back to requirements
+* Website - Get all hyperlinks working and have final updates.
+* Method Selection and Planning - Explains strengths of 
+group member to explain table and provide a summary of what 
+actually happened.
+* Implementation - Finishing touches (between Vivek + Milo)
+and compile into JAR file.
+
+* No Gantt Chart this week - same as last week

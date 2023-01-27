@@ -1,0 +1,28 @@
+@startgantt
+Project starts 2022-11-08
+
+[Initial Website Setup] lasts 7 days and is coloured in green
+then [Upload Requirement] happens 2022-12-02 and is coloured in green
+then [Record AUT TERM progress]  lasts 7 days and is coloured in green
+then [Record XMAS progress] starts 2022-12-16 and ends 2023-01-01 and is coloured in green
+then [Record remaining progress] starts 2023-01-15 and ends 2023-01-25  and is coloured in green
+then [Upload Remaining Documents] happens 2023-01-30 and is coloured in green
+[Write Risk Assessment(Partial)] lasts 7 days and is coloured in grey
+[Generating Questions] lasts 7 days and is coloured in purple
+then [First Customer Meeting] happens at 2022-11-15 and is coloured in blue
+then [Write up Requirements(1)] lasts 10 days and is coloured in purple
+[RDD with Group/Do diagrams on paper(3a/b)] starts 2022-11-22 and ends 2022-12-02 and is coloured in red
+then [Architecture Diagram into PlantUML] lasts 14 days and is coloured in red
+then [Evaluate tools used (4a)] starts on 2023-01-01 and lasts 14 days and is coloured in lime
+then [Architecture Evaluation based upon Submission(3b)] starts 2023-01-15 and ends 2023-01-22 and is coloured in red
+[Planning Assessment One] lasts 14 days and is coloured in lime
+then [Write up Team Organisation and Plan(4b/c)] lasts 14 days and is coloured in lime
+[Research/Collect Resources] starts 2022-11-08 and ends 2022-11-29 and is coloured in white
+then [PreXmas Meeting] happens 2022-11-29 and is coloured in blue
+then [Write Risk Assessment based on Research] lasts 14 days and is coloured in grey
+[Prototype with Tiled Map] starts 2022-12-02 and lasts 7 days and is coloured in pink
+then [Prototype with Character Movement] lasts 14 days and is coloured in pink
+then [Prototype with Character Mechanics] lasts 14 days and is coloured in pink
+then [Final Prototype / Compile] lasts 24 days and is coloured in pink
+[Presentation Preparation] starts 2023-01-15 and ends 2023-01-30
+@endgantt
