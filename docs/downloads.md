@@ -17,3 +17,9 @@ Github Repos:
 [Game Codebase](https://github.com/ENG1-Group-2/ENG1-Assessment-One)
 
 [Website Codebase](https://github.com/ENG1-Group-2/ENG1-Group-2.github.io)
+
+----
+
+Documentation:
+
+[JavaDocs HTML](JavaDocs/index.html)
