@@ -22,4 +22,4 @@ Github Repos:
 
 Documentation:
 
-[JavaDocs HTML](One/JavaDocs/index.html)
+[JavaDocs HTML](JavaDocs/index.html)
