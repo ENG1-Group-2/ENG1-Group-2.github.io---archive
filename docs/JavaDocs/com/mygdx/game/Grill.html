@@ -95,6 +95,7 @@ loadScripts(document, 'script');</script>
 <hr>
 <div class="type-signature"><span class="modifiers">public class </span><span class="element-name type-name-label">Grill</span>
 <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/18/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang" class="external-link">Object</a></span></div>
+<div class="block">Designed for any station that can be used to grill items.</div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -108,7 +109,9 @@ loadScripts(document, 'script');</script>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a href="#%3Cinit%3E(com.badlogic.gdx.math.Rectangle,int)" class="member-name-link">Grill</a><wbr>(com.badlogic.gdx.math.Rectangle&nbsp;grill,
  int&nbsp;hobs)</code></div>
-<div class="col-last even-row-color">&nbsp;</div>
+<div class="col-last even-row-color">
+<div class="block">Constructor method.</div>
+</div>
 </div>
 </section>
 </li>
@@ -125,13 +128,19 @@ loadScripts(document, 'script');</script>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.oracle.com/en/java/javase/18/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang" class="external-link">String</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="#displayGrillInfo()" class="member-name-link">displayGrillInfo</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">&nbsp;</div>
+<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+<div class="block">Display timer for anything on the grill.</div>
+</div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.oracle.com/en/java/javase/18/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang" class="external-link">String</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="#flipItems()" class="member-name-link">flipItems</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">&nbsp;</div>
+<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+<div class="block">Flips any items that haven't already been flipped on the hob.</div>
+</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.oracle.com/en/java/javase/18/docs/api/java.base/java/util/ArrayList.html" title="class or interface in java.util" class="external-link">ArrayList</a>&lt;<a href="Ingredient.html" title="class in com.mygdx.game">Ingredient</a>&gt;</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="#getItems()" class="member-name-link">getItems</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">&nbsp;</div>
+<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+<div class="block">Getter method.</div>
+</div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="#grillItem(com.mygdx.game.Ingredient)" class="member-name-link">grillItem</a><wbr>(<a href="Ingredient.html" title="class in com.mygdx.game">Ingredient</a>&nbsp;toCook)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
@@ -139,7 +148,10 @@ loadScripts(document, 'script');</script>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="Ingredient.html" title="class in com.mygdx.game">Ingredient</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="#hasGrillEnded()" class="member-name-link">hasGrillEnded</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">&nbsp;</div>
+<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+<div class="block">Looks through each ingredient on the hob and checks
+ whether it has been there for enough time.</div>
+</div>
 </div>
 </div>
 </div>
@@ -162,6 +174,12 @@ loadScripts(document, 'script');</script>
 <h3>Grill</h3>
 <div class="member-signature"><span class="modifiers">public</span>&nbsp;<span class="element-name">Grill</span><wbr><span class="parameters">(com.badlogic.gdx.math.Rectangle&nbsp;grill,
  int&nbsp;hobs)</span></div>
+<div class="block">Constructor method.</div>
+<dl class="notes">
+<dt>Parameters:</dt>
+<dd><code>grill</code> - location of grill on the map.</dd>
+<dd><code>hobs</code> - number of hobs within the map.</dd>
+</dl>
 </section>
 </li>
 </ul>
@@ -176,12 +194,24 @@ loadScripts(document, 'script');</script>
 <section class="detail" id="displayGrillInfo()">
 <h3>displayGrillInfo</h3>
 <div class="member-signature"><span class="modifiers">public</span>&nbsp;<span class="return-type"><a href="https://docs.oracle.com/en/java/javase/18/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang" class="external-link">String</a></span>&nbsp;<span class="element-name">displayGrillInfo</span>()</div>
+<div class="block">Display timer for anything on the grill.</div>
+<dl class="notes">
+<dt>Returns:</dt>
+<dd>How long each item has been on the grill.</dd>
+</dl>
 </section>
 </li>
 <li>
 <section class="detail" id="hasGrillEnded()">
 <h3>hasGrillEnded</h3>
 <div class="member-signature"><span class="modifiers">public</span>&nbsp;<span class="return-type"><a href="Ingredient.html" title="class in com.mygdx.game">Ingredient</a></span>&nbsp;<span class="element-name">hasGrillEnded</span>()</div>
+<div class="block">Looks through each ingredient on the hob and checks
+ whether it has been there for enough time.</div>
+<dl class="notes">
+<dt>Returns:</dt>
+<dd>Ingredient If a cook hasn't finished, it returns
+ the corrosponding item.</dd>
+</dl>
 </section>
 </li>
 <li>
@@ -199,12 +229,22 @@ loadScripts(document, 'script');</script>
 <section class="detail" id="flipItems()">
 <h3>flipItems</h3>
 <div class="member-signature"><span class="modifiers">public</span>&nbsp;<span class="return-type"><a href="https://docs.oracle.com/en/java/javase/18/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang" class="external-link">String</a></span>&nbsp;<span class="element-name">flipItems</span>()</div>
+<div class="block">Flips any items that haven't already been flipped on the hob.</div>
+<dl class="notes">
+<dt>Returns:</dt>
+<dd>String A message displaying what has happened.</dd>
+</dl>
 </section>
 </li>
 <li>
 <section class="detail" id="getItems()">
 <h3>getItems</h3>
 <div class="member-signature"><span class="modifiers">public</span>&nbsp;<span class="return-type"><a href="https://docs.oracle.com/en/java/javase/18/docs/api/java.base/java/util/ArrayList.html" title="class or interface in java.util" class="external-link">ArrayList</a>&lt;<a href="Ingredient.html" title="class in com.mygdx.game">Ingredient</a>&gt;</span>&nbsp;<span class="element-name">getItems</span>()</div>
+<div class="block">Getter method.</div>
+<dl class="notes">
+<dt>Returns:</dt>
+<dd>class variable hobs.</dd>
+</dl>
 </section>
 </li>
 </ul>
