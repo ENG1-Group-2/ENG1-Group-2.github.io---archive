@@ -1,12 +1,13 @@
 # Assessment One
-
-[Requirements](https://docs.google.com/document/d/1Flo70rLg4lD457XnsCxPJr7_iKqYlT7hWfFOOw9hHUs/edit?usp=share_link)
-
-[Architecture](https://docs.google.com/document/d/1KDSY7KTidkbb2K20VDbDv29SH4-lTw8Vp5jPuhmKaOc/edit?usp=share_link)
+//done
+[Requirements](https://drive.google.com/file/d/1WF94On2AFC1I7dnJFhlrKQPLDlnVHq3i/view?usp=share_link)
+//done
+[Architecture]https://drive.google.com/file/d/1uZPzEZQse3ofKORA94Puo5YnoAsqQnlq/view?usp=share_link)
+)
 
 [Method Planning and Organisation](https://docs.google.com/document/d/1TKuMFTWQvWSBWSnbiIByHImg4PPSAy-jOP8f0i5f3Zs/edit?usp=share_link)
-
-[Risk Assessment](https://docs.google.com/document/d/1jG4GIL9Hd6opNE-mahTNPWx4D3ONPWDCNSvA6ywfr54/edit?usp=share_link)
+//done
+[Risk Assessment](https://drive.google.com/file/d/1tbo6aH5wLi23NOhqhz3ljavX85IuFZb7/view?usp=share_link)
 
 [Implementation](https://docs.google.com/document/d/14PWIg4TcCRDbwLgEg8SZ-bU0MrJH1JKJJ_7bYBBA1F8/edit?usp=share_link)
 
