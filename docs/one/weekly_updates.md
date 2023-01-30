@@ -191,3 +191,12 @@ actually happened.
 and compile into JAR file.
 
 * No Gantt Chart this week - same as last week
+
+# Spr/WK4 - Submission!
+
+* We have time outside the scope of our deadline to organise the 
+presentation.
+* It is assessed and is more about pitching our game so we will
+use the next practical session.
+
+![Final Gantt Chart](final.png)
