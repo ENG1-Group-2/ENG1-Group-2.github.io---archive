@@ -1,3 +1,1 @@
 ## Initial Planning
-
-Hello World!
